@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348205717545",
+    "project_id": "projemanag-4641d",
+    "storage_bucket": "projemanag-4641d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348205717545:android:577225fc1571a37b712438",
+        "android_client_info": {
+          "package_name": "za.tmoney.projemanag1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348205717545-cmrcbrt2uro72hfi8rqsjqoqnt0qa1e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxISgUCtU_hhXT2QlQOuC3lf4y27Nhsko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348205717545-cmrcbrt2uro72hfi8rqsjqoqnt0qa1e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
